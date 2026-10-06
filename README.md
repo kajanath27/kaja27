@@ -40,6 +40,10 @@ A simple Python-based railway ticket reservation project.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kajanath27&theme=tokyonight)
 
+📬 Connect With Me
+Always open to learning, teaming up on student projects, and connecting with fellow learners.
+Reach out via [LinkedIn](https://www.linkedin.com/in/kajanath-s/)or email me at kajanathsundar2008@gmail.com.
+
 
 
 
