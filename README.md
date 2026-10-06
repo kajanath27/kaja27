@@ -42,7 +42,7 @@ A simple Python-based railway ticket reservation project.
 
 📬 Connect With Me
 Always open to learning, teaming up on student projects, and connecting with fellow learners.
-Reach out via [LinkedIn](https://www.linkedin.com/in/Kajanath Sundaramoorthi/) or email me at kajanathsundar2008@gmail.com.
+Reach out via [LinkedIn](https://www.linkedin.com/in/KajanathSundaramoorthi/) or email me at kajanathsundar2008@gmail.com.
 
 
 
