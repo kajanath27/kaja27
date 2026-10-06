@@ -30,3 +30,19 @@ A simple Python-based railway ticket reservation project.
 ➜Developed a basic system to book and manage train tickets.
 
 ➜Practiced Python programming and problem-solving skills.
+
+
+**GitHub Activity and Metrics**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajanath27&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanath27&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kajanath27&theme=tokyonight)
+
+
+
+
+
+
+
